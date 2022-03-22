@@ -1,0 +1,17 @@
+.nav-bar{
+    height: 70px;
+    background-color: rgba(28, 43, 53, 1);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 50px;
+}
+
+.nav-link a{
+text-decoration: none;
+margin-left: 20px;
+color: white;
+}
+.nav-bar a:hover{
+    color: orange;
+}
