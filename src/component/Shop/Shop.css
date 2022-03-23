@@ -1,5 +1,11 @@
 .shop{
     display: grid;
     grid-template-columns: 4fr 1fr;
-    color: red;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.products-details{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
 }
